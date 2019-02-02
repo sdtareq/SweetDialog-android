@@ -11,7 +11,7 @@ allprojects {
 ## Step 2: Add the dependency
 ```
 	dependencies {
-	        implementation 'com.github.sdtareq:SweetDialog-android:Tag'
+	        implementation 'com.github.sdtareq:SweetDialog-android:v0.1.0'
 	}
 
 ```
